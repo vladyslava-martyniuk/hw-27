@@ -65,6 +65,8 @@ background-color: gray;
 display: none;
 padding-top: 100px;
 margin-left: 30px;
+position: absolute;
+padding-right: 83px;
 }
 .menu-title-box:hover + .list-menu, .list-menu:hover {
      display: block;
